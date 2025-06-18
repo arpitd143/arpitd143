@@ -50,7 +50,7 @@
 
 📫 **Let's Connect**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arpit-panchal/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arpit-panchal-73793175/)
 <!-- - 🧑‍💻 [Portfolio / Website](#) *(optional)* -->
 - 📧 Email: panchalarpit4@gmail.com
 
