@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Panchal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;4.6+Years+Experience+%7C+Python+%7C+Java+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;4.8+Years+Experience+%7C+Python+%7C+Java+%7C+React" alt="Typing SVG" />
 </p>
 
 ---
