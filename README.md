@@ -8,7 +8,7 @@
 
 🌟 **About Me**
 
-- 🧑‍💻 I'm a passionate Software Engineer with **4.6 years of experience**
+- 🧑‍💻 I'm a passionate Software Engineer with **4.8 years of experience**
 - 💼 I work on full-stack development projects across various domains
 - 🌱 Currently deep diving into **system design**, **cloud-native development**, and **AI-powered solutions**
 - 🚀 Always curious to learn new technologies and contribute to impactful projects
