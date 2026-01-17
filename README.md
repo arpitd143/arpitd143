@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Arpit Panchal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;5+Years+Experience+%7C+Python+%7C+Java+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Python+%7C+FastAPI+%7C+Django;Microservices+%7C+Kafka;Generative+AI+%7C+LLMs+%7C+RAG
+" alt="Typing SVG" />
 </p>
 
 ---
 
 🌟 **About Me**
 
-- 🧑‍💻 I'm a passionate Software Engineer with **5.1 years of experience**
-- 💼 I work on full-stack development projects across various domains
-- 🌱 Currently deep diving into **system design**, **cloud-native development**, and **AI-powered solutions**
-- 🚀 Always curious to learn new technologies and contribute to impactful projects
+- 🧑‍💻 Senior Backend Engineer with **5+ years of experience** building scalable, production-grade systems
+- 💼 Strong background in **Python, FastAPI, Django**, and **event-driven microservices**
+- 🤖 Hands-on experience integrating **Generative AI (LLMs, RAG)** into backend workflows
+- ☁️ Interested in **system design, cloud-native architectures**, and AI-powered automation
+- 🚀 Passionate about building reliable systems that solve real business problems
+
 
 ---
 
@@ -25,6 +28,15 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
+### 🤖 Generative AI & Intelligent Systems
+
+- Built and integrated **LLM-powered backend services** for document parsing, data extraction, and intelligent summarization.
+- Worked with **Prompt Engineering** techniques to improve response accuracy, reduce hallucinations, and optimize token usage.
+- Implemented **Retrieval-Augmented Generation (RAG)** pipelines by combining embeddings with document stores for context-aware Q&A.
+- Integrated GenAI workflows into production systems using **FastAPI**, ensuring scalability, secure access, and efficient request handling.
+- Focused on **cost control, latency optimization, and reliability** for AI-powered features in real-world applications.
+
+
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,8 +45,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🧠 AI & Image Processing
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🧠 AI, ML & GenAI
+![OpenAI](https://img.shields.io/badge/-LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=for-the-badge)
+
 
 ### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
